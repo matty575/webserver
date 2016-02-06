@@ -1,0 +1,11 @@
+{
+  "name": "matty575-webserver",
+  "version": "0.0.1",
+  "description": "A NodeJS webserver to run inside a docker container",
+  "main": "index.js",
+  "author": "matty.horne@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+      "express": "*"
+  }
+}
